@@ -18,7 +18,7 @@ Home_Sales_colab - jupyter notebook file, created in Google Colab, that contains
 
 
 # Notes
-check rpark_version (spark_version = 'spark-3.5.3')
+check SPARK_VERSION (spark_version = 'spark-3.5.3')
 
 # Instructions
 
