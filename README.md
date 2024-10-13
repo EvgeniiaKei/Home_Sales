@@ -16,6 +16,10 @@ https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-d
 
 Home_Sales_colab - jupyter notebook file, created in Google Colab, that contains the queries.
 
+
+# Notes
+check rpark_version (spark_version = 'spark-3.5.3')
+
 # Instructions
 
 Read the home_sales_revised.csv data into a Spark DataFrame.
